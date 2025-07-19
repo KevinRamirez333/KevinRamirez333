@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Kevin Ramirez</h1>
-<h3 align="center">Desarrollador en formación con experiencia en Java, Oracle y C++. He trabajado en proyectos universitarios creando interfaces en Java que interactúan con bases de datos Oracle. Busco mi primera oportunidad en desarrollo de software como trainee o practicante.</h3>
+<h3 align="center">Desarrollador en formación con experiencia en Java, Oracle y C++. He trabajado en proyectos universitarios creando interfaces en Java que interactúan con bases de datos Oracle, asi como tambien manejo de servidores, levantando servicios web, python y JavaScript (nivel Basico). Busco mi primera oportunidad en desarrollo de software como trainee o practicante.</h3>
 
 - 💬 Puedes preguntarme sobre:  **java, oracle sql, c++**
 
