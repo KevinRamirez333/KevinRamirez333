@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Kevin Ramirez</h1>
-<h3 align="center">Desarrollador con una base sólida en múltiples lenguajes y experiencia en la creación de soluciones integrales. He evolucionado de proyectos en Java y Oracle hacia el ecosistema moderno de JavaScript/TypeScript, desarrollando aplicaciones web dinámicas con React y Node.js.</h3>
+<h3 align="center">Cuento con experiencia desarrollando proyectos de arquitectura cliente-servidor y aplicaciones web. He evolucionado de entornos en Java y Oracle hacia el ecosistema moderno de JavaScript/TypeScript, creando aplicaciones dinámicas con React y Node.js.</h3>
 
 - 💬 Puedes preguntarme sobre:  **java, oracle sql, node.js y react**
 
