@@ -1,11 +1,15 @@
 <h1 align="center">Hola 👋, Me llamo Kevin Ramirez</h1>
-<h3 align="center">Desarrollador en formación con experiencia en Java, Oracle, Python, JavaScript, HTML y C++. He trabajado en proyectos universitarios creando interfaces en Java que interactúan con bases de datos Oracle. Busco mi primera oportunidad en desarrollo de software como trainee o desarollador Jr.</h3>
+<h3 align="center">Desarrollador con una base sólida en múltiples lenguajes y experiencia en la creación de soluciones integrales. He evolucionado de proyectos en Java y Oracle hacia el ecosistema moderno de JavaScript/TypeScript, desarrollando aplicaciones web dinámicas con React y Node.js.</h3>
 
-- 💬 Puedes preguntarme sobre:  **java, oracle sql, c++**
+- 💬 Puedes preguntarme sobre:  **java, oracle sql, node.js y react**
 
 - 📫 Correo electronico: **kevinramirez2467@gmail.com**
 
-- 📄Mis experiencias: Proyectos universitarios desarrollando interfaces en Java con conexión a bases de datos Oracle, así como proyectos de electrónica utilizando Arduino. También he trabajado en configuración de servicios web y bases de datos en servidores Linux.
+- 📄Desarrollo Fullstack: Creación de aplicaciones escalables, como un sistema de carrito de compras tecnológico integrando React, Node.js y MySQL.
+
+-Software y Bases de Datos: Experiencia en Java, C++, con manejo de bases de datos relacionales (Oracle, MySQL).
+
+-Infraestructura y Hardware: Configuración de servicios en servidores Linux y desarrollo de proyectos de electrónica con Arduino.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kevin-daniel-ramirez-marin-a54b07301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kevin-daniel-ramirez-marin-a54b07301" height="30" width="40" /></a>
