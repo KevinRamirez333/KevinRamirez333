@@ -1,15 +1,14 @@
 <h1 align="center">Hola 👋, Me llamo Kevin Ramirez</h1>
 <h3 align="center">Cuento con experiencia desarrollando proyectos de arquitectura cliente-servidor y aplicaciones web. He evolucionado de entornos en Java y Oracle hacia el ecosistema moderno de JavaScript/TypeScript, creando aplicaciones dinámicas con React y Node.js.</h3>
 
-- 💬 Puedes preguntarme sobre:  **java, oracle sql, node.js y react**
+- 💬 Puedes preguntarme sobre:  **java, oracle sql, node.js y vue**
 
 - 📫 Correo electronico: **kevinramirez2467@gmail.com**
 
-- 📄Desarrollo Fullstack: Creación de aplicaciones escalables, como un sistema de carrito de compras tecnológico integrando React, Node.js y MySQL.
+- 📄Desarrollo Fullstack: Creación de aplicaciones escalables, como un sistema de importadora de vehículos integrando Vue, Node.js y MySQL.
 
-- Software y Bases de Datos: Experiencia en Java, C++, con manejo de bases de datos relacionales (Oracle, MySQL).
+- Software y Bases de Datos: Experiencia en Node.js,Vue y Java con manejo de bases de datos relacionales (Oracle, MySQL).
 
-- Infraestructura y Hardware: Configuración de servicios en servidores Linux y desarrollo de proyectos de electrónica con Arduino.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kevin-daniel-ramirez-marin-a54b07301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kevin-daniel-ramirez-marin-a54b07301" height="30" width="40" /></a>
